@@ -1,0 +1,27 @@
+Abstract:
+
+ElectronicPrescribing(e-Rx)has a significant potential to improve quality of care and reduce medication errors. 
+However, its adoption rate in primary care has been slow for a variety of reasons.
+
+This case study examines the adverse impact of an information technology (IT) failure on the prescribing process as a 
+critical reliability barrier to adoption. 
+
+Data from Allscripts TouchWorks database containing prescriptions written by six physicians in two primary care settings were 
+analyzed using a statisti- cal change-point detection algorithm to identify the tipping point in actual usage and subsequent trends in usage behavior. 
+
+Physicians overwhelmingly switched from electronic transmission of prescriptions to print option in the presence of such a failure. 
+
+This case study uses an approach for a control system that will allow for early detection of system failures and rapid process improvement, 
+and discuss implications for handling such failures in the rapidly evolving IT-enabled healthcare delivery context.
+
+
+References
+
+Surescripts (2011) The national progress report on e-prescribing and interoperable health care:
+2010. Surescripts LLC: Minneapolis
+
+Surescripts (2013) The national progress report on e-prescribing and safe-rx rankings year 2012.
+Surescripts, St Paul
+
+Advances in Healthcare Informatics and Analytics. Annals of Information Systems, vol 19. 
+Springer, Cham. https://doi.org/10.1007/978-3-319-23294-2_1
